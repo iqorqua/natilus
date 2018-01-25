@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button1"
+        android:tag="i1"
+        android:background="@android:color/transparent" />
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button2"
+        android:tag="i2"
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="true" />
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button3"
+        android:tag="i3"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="0.0dp"
+        android:maxWidth="110dp"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent" />
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button4"
+        android:tag="i4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0.0dp"
+        android:maxWidth="110dp"
+        android:background="@android:color/transparent" />
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button5"
+        android:tag="i5"
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentRight="true" />
+    <Button
+        android:layout_width="112.0dp"
+        android:layout_height="101.0dp"
+        android:id="@+id/button6"
+        android:tag="i6"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="0.0dp"
+        android:maxWidth="110dp"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent" />
+    <Button
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/button_close"
+        android:background="@android:color/transparent"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentRight="true"
+        android:text="X"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:elevation="20dp"
+        android:textSize="25sp" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i1"
+        android:background="@drawable/bk11"
+        android:elevation="2dp" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i2"
+        android:elevation="10dp"
+        android:background="@drawable/bk21" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i3"
+        android:background="@drawable/bk31"
+        android:elevation="2dp" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i4"
+        android:background="@drawable/bk41"
+        android:elevation="6dp" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i5"
+        android:background="@drawable/bk51"
+        android:elevation="1dp" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i6"
+        android:background="@drawable/bk61" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r1"
+        android:background="@drawable/r1_red" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r2"
+        android:background="@drawable/r2_green" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r3"
+        android:background="@drawable/r3_red" />
+</RelativeLayout>

@@ -1,0 +1,16 @@
+Binding for:
+com.github.ceryle:FitGridView:v1.0.5
+
+Dependencies:
+
+FitGridView-v1.0.5.aar,    Path=C:\Users\igorqua\.gradle\caches\modules-2\files-2.1\com.github.ceryle\FitGridView\v1.0.5\fd848d345a4758ce430e9a307aeb02de785dadc7\FitGridView-v1.0.5.aar
+	animated-vector-drawable-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\animated-vector-drawable\25.3.1\animated-vector-drawable-25.3.1.aar
+	appcompat-v7-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\appcompat-v7\25.3.1\appcompat-v7-25.3.1.aar
+	support-annotations-25.3.1.jar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar
+	support-compat-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-compat\25.3.1\support-compat-25.3.1.aar
+	support-core-ui-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-core-ui\25.3.1\support-core-ui-25.3.1.aar
+	support-core-utils-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-core-utils\25.3.1\support-core-utils-25.3.1.aar
+	support-fragment-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-fragment\25.3.1\support-fragment-25.3.1.aar
+	support-media-compat-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-media-compat\25.3.1\support-media-compat-25.3.1.aar
+	support-v4-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\25.3.1\support-v4-25.3.1.aar
+	support-vector-drawable-25.3.1.aar,    Path=C:\Users\igorqua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-vector-drawable\25.3.1\support-vector-drawable-25.3.1.aar

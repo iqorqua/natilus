@@ -1,0 +1,6 @@
+Binding for:
+com.github.lfkdsk:JustWeEngine:v1.13
+
+Dependencies:
+
+JustWeEngine-v1.13.aar,    Path=C:\Users\igorqua\.gradle\caches\modules-2\files-2.1\com.github.lfkdsk\JustWeEngine\v1.13\940ded8ef4c99add2761cb813aa6c53ad8c92629\JustWeEngine-v1.13.aar

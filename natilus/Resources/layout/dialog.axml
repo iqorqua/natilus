@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_modes">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_marginTop="60.5dp"
+        android:layout_marginBottom="60.0dp">
+        <TextView
+            android:text="ANSWERING QUESTION"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/question_textview"
+            android:layout_marginTop="0.0dp"
+            android:layout_marginLeft="70.0dp"
+            android:layout_marginRight="77.0dp"
+            android:gravity="center"
+            android:textColor="@color/material_deep_teal_500" />
+        <TextView
+            android:text="a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/answer_textview"
+            android:layout_marginTop="18.5dp"
+            android:layout_marginLeft="125.0dp"
+            android:layout_marginRight="112.0dp"
+            android:textColor="@color/material_deep_teal_200"
+            android:gravity="center" />
+        <Button
+            android:text="OK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ok"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_ok"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+</LinearLayout>

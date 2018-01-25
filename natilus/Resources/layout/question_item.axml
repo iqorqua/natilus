@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/questionContainerDialog"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/question_textView"
+            android:gravity="center"
+            android:textColor="@android:color/holo_green_dark"
+            android:shadowColor="#ff008000"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:backgroundTint="#00000000"
+            android:background="@drawable/button2"
+            android:backgroundTintMode="src_over" />
+    </LinearLayout>
+</LinearLayout>
